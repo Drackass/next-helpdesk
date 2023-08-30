@@ -25,3 +25,5 @@ export default function Home() {
     </main>
   )
 }
+
+// json-server --watch --port 4000 ./_data/db.json
