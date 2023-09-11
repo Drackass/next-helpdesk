@@ -9,5 +9,3 @@ export default function NotFound() {
     </main>
   )
 }
-
-// json-server --watch --port 4000 ./_data/db.json
